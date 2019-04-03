@@ -2,28 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+文字样式可以是 **加粗**, _斜体_, 以及 ~~划掉~~.
 
-[Link to another page](./another-page.html).
+[链接到另一个页面](./another-page.html).
 
-There should be whitespace between paragraphs.
+段落之间应该有空格。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+段落之间应该有空格。我们建议创建一个你的项目的关于文档。
 
-# Header 1
+# 标题1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+这是标题后面的正常段落。《浮生物语》作者是青春小说作家裟椤双树，作品讲述了发生在树妖裟椤和龙子敖炽这对欢喜冤家身上的故事。 
 
-## Header 2
+## 标题2
 
-> This is a blockquote following a header.
+> 这是标题后面的一个引用块。
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> “我对找人没有兴趣。”我难得勤快地擦拭一整排的玻璃橱柜，玲珑剔透的糖果与糕点在里面摆出可爱的POSE，诱人犯罪。
 
-### Header 3
+### 标题3
 
 ```js
-// Javascript code with syntax highlighting.
+// 具有语法突出显示的Javascript代码。
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
@@ -31,52 +31,52 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
+# 具有语法突出显示的Ruby代码
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
 
-#### Header 4
+#### 标题4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   这是标题后面的一个无序列表。
+*   这是标题后面的一个无序列表。
+*   这是标题后面的一个无序列表。
 
-##### Header 5
+##### 标题5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  这是标题后面的一个有序列表。
+2.  这是标题后面的一个有序列表。
+3.  这是标题后面的一个有序列表。
 
-###### Header 6
+###### 标题6
 
-| head1        | head two          | three |
+| 列标题1        | 列标题二          | 三 |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| ok         | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### 下面是一条分割线
 
 * * *
 
-### Here is an unordered list:
+### 这是一个无序列表：
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### 然后这是一个有序列表：
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+### 还有一个嵌套列表：
 
 - level 1 item
   - level 2 item
@@ -92,16 +92,16 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### 小图
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+### 大图
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### 定义列表可以与HTML语法一起使用。
 
 <dl>
 <dt>Name</dt>
@@ -115,9 +115,9 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+很长的单行代码块不应该换行。 如果它们太长，它们应该水平滚动。 这条线应该足够长，以用来测试。
 ```
 
 ```
-The final element.
+最后的元素。
 ```
