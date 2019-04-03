@@ -94,7 +94,7 @@ end
 
 ### 小图
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Octocat](https://www.baidu.com/img/bd_logo1.png)
 
 ### 大图
 
