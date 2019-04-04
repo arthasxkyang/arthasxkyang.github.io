@@ -64,33 +64,33 @@ end
 
 ### 这是一个无序列表：
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   我是一
+*   我是二
+*   我是三
+*   我是五（雾
 
 ### 然后这是一个有序列表：
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  我是一
+1.  我是二
+1.  我是三
+1.  我是四
 
 ### 还有一个嵌套列表：
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- 我是一级
+  - 我是二级
+  - 我也是二级
+    - 我是三级
+    - 我也是三级
+- 俺也是一级
+  - 俺是二级
+  - 俺是二级
+  - 俺是二级
+- 一级？
+  - 二级！
+  - 二级……
+- 一级啦！
 
 ### 小图
 
@@ -104,15 +104,16 @@ end
 ### 定义列表可以与HTML语法一起使用。
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>姓名</dt>
+<dd>小千</dd>
+<dt>出生年份</dt>
+<dd>撒~</dd>
+<dt>出生地</dt>
+<dd>霓虹</dd>
+<dt>喜欢的颜色</dt>
+<dd>奇迹橙</dd>
 </dl>
+
 
 ```
 很长的单行代码块不应该换行。 如果它们太长，它们应该水平滚动。 这条线应该足够长，以用来测试。（好像还不够长，所以再加些字，现在应该差不多够测试效果的了。
@@ -121,3 +122,4 @@ end
 ```
 最后的元素。
 ```
+
