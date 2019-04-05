@@ -4,7 +4,9 @@ layout: default
 
 文字样式可以是 **加粗**, _斜体_, 以及 ~~划掉~~.
 
-[链接到另一个页面](./another-page.html).
+[链接到博客另一个页面](./another-page.html).
+
+[RPG小游戏 日常的小冒险](http://butian.cafe/miracle-in-everyday-life/).
 
 段落之间应该有空格。
 
