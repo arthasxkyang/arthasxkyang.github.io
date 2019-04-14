@@ -6,6 +6,8 @@ layout: default
 
 [链接到博客另一个页面](./another-page.html).
 
+[软件及工具集](./toolslist.html)
+
 [RPG小游戏 日常的小冒险](http://butian.cafe/miracle-in-everyday-life/).
 
 段落之间应该有空格。
