@@ -6,7 +6,7 @@ description: 备忘目录
 
 ##使用搜索功能
 
-Name: Everything
+Name: Everything /br
 Url: https://www.voidtools.com/zh-cn/
 Description: 本地文件搜索；检索；查找
 Backup: 无
