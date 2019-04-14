@@ -13,7 +13,7 @@ Description: 备忘目录
 | Everything         | [官网](https://www.voidtools.com/zh-cn/)                             | 本地文件搜索；检索；查找                   | 无                                              | 2019-4-14          |
 | BubbleUPnP         | [官网](https://www.bubblesoftapps.com/)                              | 用来连接UPnP/DLNA Media Servers的付费软件  | 无                                              | 2019-4-14          |
 | JJDown             | [官网](https://www.jijidown.com/)                                    | 下载b站视频；唧唧下载器                    | 无                                              | 2019-4-14          |
-| NCM Dump           | [官网](https://github.com/NoColor2/ncmdump)                          | 网易云ncm格式转换                          | Forked，[官网](https://github.com/arthasxkyang/ncmdump) | 2019-4-14          |
+| NCM Dump           | [github](https://github.com/NoColor2/ncmdump)                          | 网易云ncm格式转换                          | Forked，[github](https://github.com/arthasxkyang/ncmdump) | 2019-4-14          |
 | ArcTime            | [官网](https://arctime.org/)                                         | 跨平台字幕软件                             | 无                                              | 2019-4-14          |
 | FolderSizePortable | [官网](https://www.mindgems.com/products/Folder-Size/Folder-Size-Download.htm) | 文件夹大小分析工具；硬盘占用分析           | 无                                              | 2019-4-14          |
 | HWMonitorPro       | [官网](https://www.cpuid.com/softwares/hwmonitor-pro.html)           | 硬件温度检测；温度监测；温度监控；付费软件 | 无                                              | 2019-4-14          |
