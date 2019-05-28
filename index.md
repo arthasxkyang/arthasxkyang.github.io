@@ -6,6 +6,8 @@ layout: default
 
 近期活动
 
+[小黑屋](http://butian.cafe/adra/?lang=zh_cn)
+
 [RPG小游戏 日常的小冒险](http://butian.cafe/miracle-in-everyday-life/).
 
 [苏联笑话生成器](./awsl.html)
