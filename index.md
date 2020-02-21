@@ -6,6 +6,10 @@ layout: default
 
 近期活动
 
+[叉来的狒狒天气时钟](http://butian.cafe/ff14wb/)
+
+-----
+
 [小黑屋](http://butian.cafe/adra/?lang=zh_cn)
 
 [RPG小游戏 日常的小冒险](http://butian.cafe/miracle-in-everyday-life/).
