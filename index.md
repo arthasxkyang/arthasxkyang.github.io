@@ -6,13 +6,15 @@ layout: default
 
 近期活动
 
-[叉来的狒狒天气时钟](http://butian.cafe/ff14wb/)
+[狒狒天气时钟](https://asvel.github.io/ffxiv-weather-bell/)
 
 -----
 
-[小黑屋](http://butian.cafe/adra/?lang=zh_cn)
+[DNS自用速查表](./dnslookup/dnslookup.html)
 
-[RPG小游戏 日常的小冒险](http://butian.cafe/miracle-in-everyday-life/).
+小黑屋
+
+RPG小游戏 日常的小冒险
 
 [苏联笑话生成器](./awsl.html)
 
