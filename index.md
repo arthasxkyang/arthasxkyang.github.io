@@ -10,7 +10,7 @@ layout: default
 
 -----
 
-[DNS自用速查表](./dnslookup/dnslookup.html)
+[DNS自用速查表](./dnslookup/dnslookup.md)
 
 小黑屋
 
